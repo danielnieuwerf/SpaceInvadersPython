@@ -19,6 +19,7 @@ background = pygame.image.load('background.png')
 # Background music
 mixer.music.load('backgroundmusic.mp3')
 mixer.music.play(-1)
+
 # Player
 playerImage = pygame.image.load('spaceship.jpg')
 playerX = 370
